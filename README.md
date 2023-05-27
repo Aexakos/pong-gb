@@ -4,6 +4,11 @@
 The only original feature not implemented is sound. </p>
 
 # Build Instructions
+1. Install **[rgbds](https://rgbds.gbdev.io/install)** and **GNU Make**
+2. Clone the repo to a local directory
+3. Execute *make*
+4. Download a GB emulator (e.g. [Emulicious](https://emulicious.net/downloads/))
+5. Open pong.gb with the GameBoy emulator
 
 # Controls
 * MoveUp: **UP arrow**
